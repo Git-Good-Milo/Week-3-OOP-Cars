@@ -11,3 +11,5 @@ class Vehicle2 ():
 
     def make_sound(self):
         return '##Making Noooises'
+
+print(Vehicle2(4, 5, 'Green', 1967))
